@@ -72,4 +72,4 @@ I’m continuing to refine **Paws&Found** while strengthening my foundations in 
 
 ### Connect
 
-**LinkedIn:** Add your LinkedIn profile URL here
+**LinkedIn:** [linkedin.com/in/kyle-michael-austria](https://www.linkedin.com/in/kyle-michael-austria)
