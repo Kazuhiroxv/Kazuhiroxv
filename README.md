@@ -11,9 +11,20 @@ My academic work has involved system analysis, project coordination, backend and
 ### [Paws&Found](https://github.com/Kazuhiroxv/Paws-Found)
 **Web-Based Community System for Lost and Found Pets**
 
-Project Manager and System Analyst for a multi-role web application supporting lost/found pet reports, verification workflows, smart matching, map-based discovery, notifications, and administrative reporting.
+Project Lead / System Analyst for a multi-role web application supporting lost/found pet reports, verification workflows, explainable matching, map-based discovery, notifications, moderation, and administrative oversight.
 
-`React` `TypeScript` `PHP` `MariaDB` `Leaflet`
+`React` `JavaScript` `PHP` `MySQL` `Leaflet` `Railway`
+
+---
+
+### [Metro Manila Traffic Pipeline](https://github.com/Kazuhiroxv/metro-manila-traffic-pipeline)
+**Real-Time Traffic Streaming Pipeline**
+
+Co-developed an academic real-time data pipeline using live TomTom traffic data for EDSA and C5, processed through Kafka and Spark Structured Streaming, persisted in Cassandra, and displayed through a Flask dashboard.
+
+My documented work includes environment setup and work on the Spark/Cassandra stage, evidence-run preparation, and pipeline verification. Contribution wording remains conservative while the course report's contribution section awaits team confirmation.
+
+`Python` `Apache Kafka` `PySpark` `Apache Cassandra` `Flask` `Linux / WSL`
 
 ---
 
